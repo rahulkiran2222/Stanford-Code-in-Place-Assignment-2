@@ -1,25 +1,18 @@
-# 🎓 Stanford Code in Place — Assignment 2
+# 🎓 Stanford Code in Place
 
-> A Python programming assignment completed as part of **Stanford Code in Place**.
-
----
-
-## 📝 Assignment
-
-This assignment focuses on practicing fundamental Python programming concepts through a small, focused problem.
-
-### 💻 Solution
-
-See [`main.py`](./main.py) for the complete solution.
+> My programming journey through **Stanford Code in Place** — learning Python, problem solving, and computational thinking through hands-on assignments.
 
 ---
 
-## 🧠 Concepts
+## 📚 Coursework
 
-**Python** · **Functions** · **Program Structure** · **Problem Solving**
+### 01 · Programming is Awesome
 
----
+A simple introductory Python assignment.
 
-<p align="center">
-  <sub>Stanford Code in Place · Assignment 2</sub>
-</p>
+**Task**
+
+Print:
+
+```text
+Programming is awesome!
