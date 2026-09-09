@@ -1,18 +1,43 @@
-# 🎓 Stanford Code in Place
+# 🎓 Stanford Code in Place — Assignment 2
 
-> My programming journey through **Stanford Code in Place** — learning Python, problem solving, and computational thinking through hands-on assignments.
+> The second programming assignment in my **Stanford Code in Place** journey, continuing my practice with Python, problem solving, and computational thinking.
 
 ---
 
-## 📚 Coursework
+## 📚 Assignment 2
 
-### 01 · Programming is Awesome
+This assignment builds on the fundamentals introduced in the first assignment and provides another hands-on Python programming exercise.
 
-A simple introductory Python assignment.
+### 💻 Solution
 
-**Task**
+The complete solution is available in:
 
-Print:
+[`main.py`](./main.py)
 
-```text
-Programming is awesome!
+---
+
+## 🧠 Concepts
+
+`Python` · `Functions` · `Control Flow` · `Problem Solving`
+
+---
+
+## 🗺️ Progress
+
+| Assignment | Status |
+|:--|:--:|
+| Assignment 1 — Programming is Awesome | ✅ |
+| Assignment 2 | ✅ |
+| More assignments coming | 🔜 |
+
+---
+
+### 💻 Learning by Building
+
+**Learn → Practice → Solve → Build → Repeat**
+
+---
+
+<p align="center">
+  <sub>Personal coursework repository · Stanford Code in Place</sub>
+</p>
