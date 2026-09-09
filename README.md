@@ -27,7 +27,7 @@ The complete solution is available in:
 | Assignment | Status |
 |:--|:--:|
 | Assignment 1 — Programming is Awesome | ✅ |
-| Assignment 2 | ✅ |
+| Assignment 2 - Sunrise Message | ✅ |
 | More assignments coming | 🔜 |
 
 ---
