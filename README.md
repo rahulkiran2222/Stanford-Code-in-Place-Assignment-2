@@ -1,43 +1,54 @@
-# 🎓 Stanford Code in Place — Assignment 2
+# 🌅 Sunrise Message
 
-> The second programming assignment in my **Stanford Code in Place** journey, continuing my practice with Python, problem solving, and computational thinking.
+> A creative Python program from my **Stanford Code in Place** journey that turns user input into a personalized sunrise message.
 
 ---
 
-## 📚 Assignment 2
+## 📚 Assignment
 
-This assignment builds on the fundamentals introduced in the first assignment and provides another hands-on Python programming exercise.
+**Sunrise Message** is a simple interactive Python program.
 
-### 💻 Solution
+The user provides:
 
-The complete solution is available in:
+- 🌈 A color
+- ✨ An adjective
+- 🎯 A goal they would like to achieve
 
-[`main.py`](./main.py)
+The program combines these inputs into a short personalized message.
+
+---
+
+## 💻 Solution
+Provided in File
+````
+
+---
+
+## 🖥️ Example
+
+```text
+A color: golden
+An adjective: peaceful
+A goal you would like to achieve: learn Python
+
+At dawn the sky turned golden, and the air felt peaceful. I decided today I will finally learn Python.
+```
 
 ---
 
 ## 🧠 Concepts
 
-`Python` · `Functions` · `Control Flow` · `Problem Solving`
-
----
-
-## 🗺️ Progress
-
-| Assignment | Status |
-|:--|:--:|
-| Assignment 1 — Programming is Awesome | ✅ |
-| Assignment 2 - Sunrise Message | ✅ |
-| More assignments coming | 🔜 |
+`Python` · `User Input` · `Variables` · `f-Strings` · `Functions`
 
 ---
 
 ### 💻 Learning by Building
 
-**Learn → Practice → Solve → Build → Repeat**
+**Learn → Practice → Create → Build → Repeat**
 
 ---
 
 <p align="center">
-  <sub>Personal coursework repository · Stanford Code in Place</sub>
+  <sub>Stanford Code in Place · Sunrise Message</sub>
 </p>
+```
