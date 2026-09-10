@@ -29,11 +29,13 @@ Provided in files.
 
 At dawn the sky turned golden, and the air felt peaceful. I decided today I will finally learn Python.
 Concepts: Python · User Input · Variables · f-Strings · Functions
+
 🗺️ Progress
 Assignment	Status
 Programming is Awesome	✅
 Sunrise Message	✅
 More assignments coming	🔜
+
 💻 Learning by Building
 Learn → Practice → Solve → Build → Repeat
 
