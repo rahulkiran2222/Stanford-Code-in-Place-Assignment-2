@@ -26,7 +26,7 @@ Provided in files.
 
 **Output**
 
-```text
+
 At dawn the sky turned golden, and the air felt peaceful. I decided today I will finally learn Python.
 Concepts: Python · User Input · Variables · f-Strings · Functions
 🗺️ Progress
@@ -36,4 +36,5 @@ Sunrise Message	✅
 More assignments coming	🔜
 💻 Learning by Building
 Learn → Practice → Solve → Build → Repeat
+
 <p align="center"> <sub>Personal coursework repository · Stanford Code in Place</sub> </p> ```
